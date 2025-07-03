@@ -1,0 +1,10 @@
+date: '2025-04-13'
+runs:
+- date: '2025-04-13'
+  distance_km: 6570.0
+  time: '3398.0'
+  pace: '8.619989852866565'
+  heartrate_avg: 165
+  max_heartrate: 196
+  cycle_day: 5
+  vo2max: 35

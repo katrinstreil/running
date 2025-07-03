@@ -1,0 +1,10 @@
+date: '2024-12-19'
+runs:
+- date: '2024-12-19'
+  distance_km: 1840.0
+  time: '1011.0000000000001'
+  pace: '9.157608695652174'
+  heartrate_avg: 158
+  max_heartrate: 172
+  cycle_day: 26
+  vo2max: 36
